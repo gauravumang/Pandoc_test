@@ -13,7 +13,7 @@ import pypandoc
 #os.environ.setdefault('PYPANDOC_PANDOC','C:\\inetpub\\wwwroot\\Nov_25\\venv\\lib\\site-packages\\pypandoc\\files\\pandoc.exe')
 #os.environ.setdefault('PYPANDOC_PANDOC','\\venv\\lib\\site-packages\\pypandoc\\files\\pandoc')
 
-os.environ.setdefault('PYPANDOC_PANDOC','C:\\Pandoc\\pandoc.exe')
+#os.environ.setdefault('PYPANDOC_PANDOC','C:\\Pandoc\\pandoc.exe')
 
 @app.route("/")
 def home():
