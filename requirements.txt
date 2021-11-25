@@ -2,3 +2,4 @@ applicationinsights==0.11.10
 Flask==2.0.2
 ptvsd==4.3.2
 pypandoc==1.6.4
+gunicorn
